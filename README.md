@@ -59,3 +59,14 @@ fashion_mnist_cnn_model.h5
 * Matplotlib
 * Seaborn
 * Scikit-learn
+---
+
+# 👨‍💻 Author
+
+**John Gerges**
+
+📧 Email: johngwanes@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/john-gerges-a59592336/
+
+---
