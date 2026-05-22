@@ -1,5 +1,7 @@
 # Fashion MNIST CNN Project
 
+---
+
 ## 📌 Description
 
 This project implements a Convolutional Neural Network (CNN) using TensorFlow to classify images from the Fashion MNIST dataset into 10 different clothing categories.
